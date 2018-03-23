@@ -16,7 +16,14 @@ namespace PENEXCErsize
             this.prize = prize;
         }
 
+        
         public void Pen3(string color, string brand, double prize)
+        {
+            this.color = color;
+            this.brand = brand;
+            this.prize = prize;
+        }
+        public void Pen1(string color, string brand, double prize)
         {
             this.color = color;
             this.brand = brand;
