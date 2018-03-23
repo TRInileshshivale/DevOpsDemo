@@ -1,0 +1,10 @@
+C:\Users\nilsh\source\repos\PENEXCErsize\PENEXCErsize\bin\Debug\PENEXCErsize.exe.config
+C:\Users\nilsh\source\repos\PENEXCErsize\PENEXCErsize\bin\Debug\PENEXCErsize.exe
+C:\Users\nilsh\source\repos\PENEXCErsize\PENEXCErsize\bin\Debug\PENEXCErsize.pdb
+C:\Users\nilsh\source\repos\PENEXCErsize\PENEXCErsize\obj\Debug\PENEXCErsize.csprojResolveAssemblyReference.cache
+C:\Users\nilsh\source\repos\PENEXCErsize\PENEXCErsize\obj\Debug\PENEXCErsize.Form1.resources
+C:\Users\nilsh\source\repos\PENEXCErsize\PENEXCErsize\obj\Debug\PENEXCErsize.Properties.Resources.resources
+C:\Users\nilsh\source\repos\PENEXCErsize\PENEXCErsize\obj\Debug\PENEXCErsize.csproj.GenerateResource.Cache
+C:\Users\nilsh\source\repos\PENEXCErsize\PENEXCErsize\obj\Debug\PENEXCErsize.csproj.CoreCompileInputs.cache
+C:\Users\nilsh\source\repos\PENEXCErsize\PENEXCErsize\obj\Debug\PENEXCErsize.exe
+C:\Users\nilsh\source\repos\PENEXCErsize\PENEXCErsize\obj\Debug\PENEXCErsize.pdb

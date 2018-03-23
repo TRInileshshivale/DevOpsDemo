@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<ArrayOfPen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Pen>
+    <color>Red</color>
+    <brand>Cello</brand>
+    <prize>1234</prize>
+  </Pen>
+  <Pen>
+    <color>Blue</color>
+    <brand>dvfdgdgf</brand>
+    <prize>121414</prize>
+  </Pen>
+</ArrayOfPen>
